@@ -1,0 +1,12 @@
+.recado{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+    border: 1px solid black;
+    display: flex;
+    box-shadow: 1px 1px 1px 1px black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
